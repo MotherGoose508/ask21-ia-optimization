@@ -1,0 +1,8 @@
+profile_name,severity_fraction,headwind_mps,downdraft_mps,starting_altitude_m
+Still Air,0,0,0,800
+Light Profile,0.166666667,2.333333333,0.166666667,800
+Light-Moderate Profile,0.333333333,4.666666667,0.333333333,800
+Moderate Profile,0.5,7,0.5,800
+Moderate-Strong Profile,0.666666667,8.666666667,0.666666667,800
+Near-Strong Profile,0.833333333,10.333333333,0.833333333,800
+Strong Profile,1,12,1,800

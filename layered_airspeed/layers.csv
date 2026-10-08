@@ -1,0 +1,4 @@
+layer,altitude_loss_m,headwind_mps,downdraft_mps,source_status
+Illustrative upper layer,300,0,0,Illustrative altitude allocation using the IA still-air anchor
+Illustrative middle layer,300,7,0.5,Illustrative altitude allocation using the IA moderate-profile anchor
+Illustrative lower layer,200,12,1,Illustrative altitude allocation using the IA strong-profile anchor
